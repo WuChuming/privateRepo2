@@ -15,7 +15,7 @@
 		2A69675420285000008BA98D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A69675320285000008BA98D /* main.m */; };
 		2A69675E20285000008BA98D /* privateRepo1Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A69675D20285000008BA98D /* privateRepo1Tests.m */; };
 		2A69676920285000008BA98D /* privateRepo1UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A69676820285000008BA98D /* privateRepo1UITests.m */; };
-		2A6967792028501B008BA98D /* a.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A6967782028501B008BA98D /* a.m */; };
+		2A69677C20285A5F008BA98D /* aaViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2A69677B20285A5F008BA98D /* aaViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,8 +52,8 @@
 		2A69676420285000008BA98D /* privateRepo1UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = privateRepo1UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A69676820285000008BA98D /* privateRepo1UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = privateRepo1UITests.m; sourceTree = "<group>"; };
 		2A69676A20285001008BA98D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2A6967772028501B008BA98D /* a.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = a.h; sourceTree = "<group>"; };
-		2A6967782028501B008BA98D /* a.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = a.m; sourceTree = "<group>"; };
+		2A69677A20285A5F008BA98D /* aaViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = aaViewController.h; sourceTree = "<group>"; };
+		2A69677B20285A5F008BA98D /* aaViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = aaViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -139,8 +139,8 @@
 		2A6967762028500A008BA98D /* PrivateRepo */ = {
 			isa = PBXGroup;
 			children = (
-				2A6967772028501B008BA98D /* a.h */,
-				2A6967782028501B008BA98D /* a.m */,
+				2A69677A20285A5F008BA98D /* aaViewController.h */,
+				2A69677B20285A5F008BA98D /* aaViewController.m */,
 			);
 			path = PrivateRepo;
 			sourceTree = "<group>";
@@ -281,7 +281,7 @@
 				2A69674920285000008BA98D /* ViewController.m in Sources */,
 				2A69675420285000008BA98D /* main.m in Sources */,
 				2A69674620285000008BA98D /* AppDelegate.m in Sources */,
-				2A6967792028501B008BA98D /* a.m in Sources */,
+				2A69677C20285A5F008BA98D /* aaViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

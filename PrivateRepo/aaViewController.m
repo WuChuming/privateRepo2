@@ -1,18 +1,18 @@
 //
-//  a.m
+//  aaViewController.m
 //  privateRepo1
 //
 //  Created by WuChuMing on 2018/2/5.
 //  Copyright © 2018年 WuChuMing. All rights reserved.
 //
 
-#import "a.h"
+#import "aaViewController.h"
 
-@interface a ()
+@interface aaViewController ()
 
 @end
 
-@implementation a
+@implementation aaViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];
