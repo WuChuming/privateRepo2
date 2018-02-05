@@ -1,5 +1,5 @@
 //
-//  a.h
+//  aaViewController.h
 //  privateRepo1
 //
 //  Created by WuChuMing on 2018/2/5.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface a : UIViewController
+@interface aaViewController : UIViewController
 
 @end
